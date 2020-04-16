@@ -25,12 +25,15 @@ li a {
 li a:hover {
   background-color: #111;
 }
+.active {
+  background-color: #4CAF50;
+  }
 </style>
 </head>
 <body>
 
 <ul>
-  <li><a href="class="active"https://cozmogames.github.io/game.github.io/">Home</a></li>
+  <li><a href='https://cozmogames.github.io/game.github.io/">Home</a></li>
   <li><a class="active" href="place">Downloads</a></li>
 </ul>
 
